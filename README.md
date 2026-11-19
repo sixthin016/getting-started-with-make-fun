@@ -12,8 +12,19 @@ This guide takes you from no account to your first entry, one step at a time.
 >
 > My referral code is `wffmhs5a`. Use it when you register (`makefun register --ref wffmhs5a`) or add `?ref=wffmhs5a` to any page on the site.
 
+## Your first hour
+
+If you have one hour, spend it like this:
+
+1. **Sign up** (10 minutes) — account, Solana wallet, linked GitHub. See [1. Create your account](#1-create-your-account).
+2. **Pick a small bounty** (10 minutes) — one whose task you can finish in a sitting. See [2. Pick a bounty](#2-pick-a-bounty).
+3. **Download its kit and read RULES.txt** (10 minutes) — the kit is the bounty. See [3. Get the kit](#3-get-the-kit).
+4. **Build a first version with your agent** (25 minutes) — rough is fine; the loop teaches faster than planning does. See [4. Build your entry](#4-build-your-entry).
+5. **Run the local checks and submit** (5 minutes) — then read what the checks say and improve from there. See [5. Submit it](#5-submit-it) and [6. Check it, fix it, resubmit](#6-check-it-fix-it-resubmit).
+
 ## Contents
 
+- [Your first hour](#your-first-hour)
 - [How make.fun works](#how-makefun-works)
 - [What you need](#what-you-need)
 - [1. Create your account](#1-create-your-account)
@@ -129,6 +140,14 @@ After intake, the entry's status page shows the checks one by one. The common fa
 
 Never resubmit the same entry unchanged: the same score gives the same rank and only burns one of the day's entries. Resubmit only when the new version measures better on the metric that decides the ranking — a local grade, a faster benchmark, a higher judge score — and re-check the rank after each resubmit until it lands in the paid places. Stop and rethink after three builds in a row with no measured gain.
 
+### First-timer mistakes to avoid
+
+- **Picking a bounty too big for a first entry.** A large task with days of build behind it is the wrong place to learn the loop. Pick small, submit, learn the checks, then go bigger.
+- **Polishing what the scoring never reads.** A beautiful README on a scored-code bounty, or a fast implementation on a judged-image bounty, earns nothing. Read how the bounty is scored first and spend the effort there.
+- **Submitting at the last minute.** Intake checks take time, a fix costs one of the day's entries, and the daily limit does not bend for deadlines. Submit early enough to fix and resubmit at least once.
+- **Entering with the wrong GitHub account.** Repository bounties compare the repo owner with the GitHub account linked to your make.fun account. A repository under any other account is refused, however good the guide inside it is.
+- **Treating the referral link as the product.** A bare link converts almost nobody. The guide is the product: it is what turns a click into a signup, and a signup into a builder.
+
 ## 7. Claim your reward
 
 When results are in and your entry placed, claim from the escrow:
@@ -175,7 +194,7 @@ Signups through my link so far — the loop starts here, and this table is where
 |---|---|---|---|
 | 1 | [sixthin016](https://github.com/sixthin016) (this guide) | 0 | — |
 
-How the loop grows: join with [my link](https://make.fun/r/wffmhs5a), build your first entry, then share your own referral link with your own guide. When your signups start landing, your name goes on this table — and the table itself is the proof the next reader needs that the loop is real.
+How the loop grows: join with [my link](https://make.fun/r/wffmhs5a), build your first entry, then share your own referral link with your own guide. When your signups start landing, your name goes on this table — and the table itself is the proof the next reader needs that the loop is real. Counts come from the Referrals tab and this table is updated whenever the loop moves.
 
 ## How this guide spreads
 
